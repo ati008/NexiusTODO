@@ -1,0 +1,12 @@
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\bin\Debug\net6.0\TODOAPI.Adatbazis.deps.json
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\bin\Debug\net6.0\TODOAPI.Adatbazis.dll
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\bin\Debug\net6.0\TODOAPI.Adatbazis.pdb
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\TODOAPI.Adatbazis.csproj.AssemblyReference.cache
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\TODOAPI.Adatbazis.GeneratedMSBuildEditorConfig.editorconfig
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\TODOAPI.Adatbazis.AssemblyInfoInputs.cache
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\TODOAPI.Adatbazis.AssemblyInfo.cs
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\TODOAPI.Adatbazis.csproj.CoreCompileInputs.cache
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\TODOAPI.Adatbazis.dll
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\refint\TODOAPI.Adatbazis.dll
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\TODOAPI.Adatbazis.pdb
+D:\NexiusInterjú\TODOAPI\TODOAPI.Adatbazis\obj\Debug\net6.0\ref\TODOAPI.Adatbazis.dll
